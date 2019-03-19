@@ -1,4 +1,4 @@
-# x_trading
+# x_trading V0.1.1
 综合量化交易平台
 ## 爬虫模块
 ## NLP模块
